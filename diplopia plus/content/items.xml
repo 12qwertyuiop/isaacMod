@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1">
+    <active id="1" name="double eyes" gfx="double_eyes_item.png" quality="4" maxcharges="6" chargetype="nomal" />
+
+</items>
